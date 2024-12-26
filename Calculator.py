@@ -1,5 +1,5 @@
 # This is the code to make an easy calculator that adds, multiplies, subtracts and divide.
-
+# Only two numbers
 import tkinter   # Import tkinter
 from tkinter import * # Import everything from tkinter
 from functools import partial # Importing partial from functools
